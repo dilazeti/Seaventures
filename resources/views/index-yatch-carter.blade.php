@@ -612,7 +612,7 @@
             <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
                 <div class="featured-item-card">
                     <div class="item-img">
-                        <img src="yatch-carter/img/si-datu-bua.jpg">
+                        <img src="yatch-carter/img/amandira.png">
                         <div class="item-overlay">
                             <div class="item-btns">
 
@@ -637,7 +637,7 @@
             <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
                 <div class="featured-item-card">
                     <div class="item-img">
-                        <img src="yatch-carter/img/si-datu-bua.jpg">
+                        <img src="yatch-carter/img/silolona.jpg">
                         <div class="item-overlay">
                             <div class="item-btns">
                                 
@@ -662,7 +662,7 @@
             <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
                 <div class="featured-item-card">
                     <div class="item-img">
-                        <img src="yatch-carter/img/si-datu-bua.jpg">
+                        <img src="yatch-carter/img/magia-ii.jpg">
                         <div class="item-overlay">
                             <div class="item-btns">
                               
