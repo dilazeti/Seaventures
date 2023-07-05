@@ -695,8 +695,7 @@
 <!--featured item sec end-->
 
 <!--mini banner start
-<div class="banner padding-bottom padding-top parallax" style="background-image: url('yatch-carter/img/headerBG.png')">
-    <div class="overlay-white"></div>
+
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-8 offset-md-3 text-center">
@@ -735,7 +734,9 @@
 <!--mini banner end-->
 
 <!--about us section start-->
-<section class="about-sec padding-top padding-bottom" id="about-sec">
+<div class="banner padding-bottom padding-top parallax" style="background-image: url('yatch-carter/img/headerBG.png')">
+    <div class="overlay-white"></div>
+<section class="about-sec padding-bottom" id="about-sec">
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
@@ -746,7 +747,9 @@
             <div class="col-12 col-md-8 offset-md-2 text-center">
                 <p class="text">SEAVENTURES is an all-service charter agency with a hand-picked selection of the most luxurious, experience-led yachts in Indonesia. Each trip is unique: we pride ourselves on getting to know our clients so that we can craft the perfect sailing sojourn.</p>
             </div>
-        </div>
+</div>
+</div>
+</div>
         <!-- Our Team-->
          <div class="row services-area">
            
