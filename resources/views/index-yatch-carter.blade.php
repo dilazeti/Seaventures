@@ -20,18 +20,18 @@
     <!-- Bundle -->
     <link href="vendor/css/bundle.min.css" rel="stylesheet">
     <!-- Plugin Css -->
-    <link href="yatch-carter/css/line-awesome.min.css" rel="stylesheet">
-    <link href="vendor/css/revolution-settings.min.css" rel="stylesheet">
-    <link href="vendor/css/jquery.fancybox.min.css" rel="stylesheet">
-    <link href="vendor/css/owl.carousel.min.css" rel="stylesheet">
-    <link href="vendor/css/cubeportfolio.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="vendor/css/revolution-settings.min.css">
-    <link rel="stylesheet" href="vendor/css/tooltipster.min.css">
-    <link rel="stylesheet" href="vendor/css/LineIcons.min.css">
-    <link href="vendor/css/wow.css" rel="stylesheet">
-    <link href="yatch-carter/css/settings.css" rel="stylesheet">
-    <link href="yatch-carter/css/blog.css" rel="stylesheet">
-    <link href="yatch-carter/css/style.css" rel="stylesheet">
+    <link href="{{ asset('yatch-carter/css/line-awesome.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('vendor/css/revolution-settings.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('vendor/css/jquery.fancybox.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('vendor/css/owl.carousel.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('vendor/css/cubeportfolio.min.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('vendor/css/revolution-settings.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('vendor/css/tooltipster.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('vendor/css/LineIcons.min.css') }}">
+    <link href="{{ asset('vendor/css/wow.css') }}" rel="stylesheet">
+    <link href="{{ asset('yatch-carter/css/settings.css') }}" rel="stylesheet">
+    <link href="{{ asset('yatch-carter/css/blog.css') }}" rel="stylesheet">
+    <link href="{{ asset('yatch-carter/css/style.css') }}" rel="stylesheet">
 
 </head>
 
@@ -612,7 +612,7 @@
             <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
                 <div class="featured-item-card">
                     <div class="item-img">
-                        <img src="yatch-carter/img/item11.jpg">
+                        <img src="yatch-carter/img/si-datu-bua.jpg">
                         <div class="item-overlay">
                             <div class="item-btns">
 
@@ -637,7 +637,7 @@
             <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
                 <div class="featured-item-card">
                     <div class="item-img">
-                        <img src="yatch-carter/img/item7.jpg">
+                        <img src="yatch-carter/img/si-datu-bua.jpg">
                         <div class="item-overlay">
                             <div class="item-btns">
                                 
@@ -662,7 +662,7 @@
             <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
                 <div class="featured-item-card">
                     <div class="item-img">
-                        <img src="yatch-carter/img/item5.jpg">
+                        <img src="yatch-carter/img/si-datu-bua.jpg">
                         <div class="item-overlay">
                             <div class="item-btns">
                               
@@ -880,11 +880,11 @@
             <div class="item text-center">
                 <div class="testimonial-review">
                     <div class="review-image">
-                        <img src="yatch-carter/img/review.jpg">
+                        <img src="yatch-carter/img/review1.jpeg">
                     </div>
                     <div class="review-detail">
                         <h4 class="test-heading">"We feel very fortunate to have sailed with you."</h4>
-                        <p class="text-des">Lorem ipsum is simply dummy text of the printing and type setting. Lorem Ipsum has been the industry’s is dummy. Lorem ipsum is simply dummy text of the printing and typesetting. Lorem Ipsum has been the industry’s standard dummy.</p>
+                        <p class="text-des">It was very fun, its has reasonable price, good staff and a very relaxing trip. Super worth it. Thank you SEAVENTURES!</p>
                         <ul class="test-review">
                             <li><a href="#"><i class="las la-star"></i></a></li>
                             <li><a href="#"><i class="las la-star"></i></a></li>
@@ -894,7 +894,7 @@
                         </ul>
                     </div>
                     <div class="client-info media-body">
-                        <h5 class="client-name mt-0">JOE MARTIN </h5>
+                        <h5 class="client-name mt-0">RIZKY ANUGRAH </h5>
                         <p class="client-designation">/ CEO.</p>
                     </div>
                 </div>
@@ -902,11 +902,11 @@
             <div class="item text-center">
                 <div class="testimonial-review">
                     <div class="review-image">
-                        <img src="yatch-carter/img/rev1.jpg">
+                        <img src="yatch-carter/img/review2.jpeg">
                     </div>
                     <div class="review-detail">
                         <h4 class="test-heading">"A huge thank you for a fantastic trip in Raja Ampat." </h4>
-                        <p class="text-des">Lorem ipsum is simply dummy text of the printing and type setting. Lorem Ipsum has been the industry’s is dummy. Lorem ipsum is simply dummy text of the printing and typesetting. Lorem Ipsum has been the industry’s standard dummy.</p>
+                        <p class="text-des">It was very fun, its has reasonable price, good staff and a very relaxing trip. Super worth it. Thank you SEAVENTURES!</p>
                         <ul class="test-review">
                             <li><a href="#"><i class="las la-star"></i></a></li>
                             <li><a href="#"><i class="las la-star"></i></a></li>
@@ -916,7 +916,7 @@
                         </ul>
                     </div>
                     <div class="client-info media-body">
-                        <h5 class="client-name mt-0">JOE MARTIN </h5>
+                        <h5 class="client-name mt-0">LAURA FLORENCIA </h5>
                         <p class="client-designation">/ CEO.</p>
                     </div>
                 </div>
