@@ -2172,7 +2172,7 @@ transform: rotate(10deg);
   ==================================== */
 .about-sec{}
 .about-sec .services-area{
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .about-sec .services .service-card:hover .image-holder i{
     color: #2b7a78;
