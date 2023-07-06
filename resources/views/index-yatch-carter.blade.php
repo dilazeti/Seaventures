@@ -888,7 +888,7 @@
                     </div>
                     <div class="review-detail">
                         <h4 class="test-heading">"We feel very fortunate to have sailed with you."</h4>
-                        <p class="text-des">It was very fun, its has reasonable price, good staff and a very relaxing trip. Super worth it. Thank you SEAVENTURES!</p>
+                        <p class="text-des">The boat and crew were fantastic, and thank you for your efficiency and organisation in the lead up to our vacation. True paradise!</p>
                         <ul class="test-review">
                             <li><a href="#"><i class="las la-star"></i></a></li>
                             <li><a href="#"><i class="las la-star"></i></a></li>
@@ -899,7 +899,7 @@
                     </div>
                     <div class="client-info media-body">
                         <h5 class="client-name mt-0">RIZKY ANUGRAH </h5>
-                        <p class="client-designation">/ CEO.</p>
+                        <p class="client-designation">/ A Family, Malang.</p>
                     </div>
                 </div>
             </div>
@@ -910,7 +910,7 @@
                     </div>
                     <div class="review-detail">
                         <h4 class="test-heading">"A huge thank you for a fantastic trip in Raja Ampat." </h4>
-                        <p class="text-des">It was very fun, its has reasonable price, good staff and a very relaxing trip. Super worth it. Thank you SEAVENTURES!</p>
+                        <p class="text-des">My friends loved the diving, the crew were super attentive to our very active group and it was the most amazing way to spend some time together sharing some real family experiences. We can’t wait to come back for the next adventure!</p>
                         <ul class="test-review">
                             <li><a href="#"><i class="las la-star"></i></a></li>
                             <li><a href="#"><i class="las la-star"></i></a></li>
@@ -921,7 +921,7 @@
                     </div>
                     <div class="client-info media-body">
                         <h5 class="client-name mt-0">LAURA FLORENCIA </h5>
-                        <p class="client-designation">/ CEO.</p>
+                        <p class="client-designation">/ A Family, Sulawesi.</p>
                     </div>
                 </div>
             </div>
