@@ -612,31 +612,6 @@
             <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
                 <div class="featured-item-card">
                     <div class="item-img">
-                        <img src="yatch-carter/img/amandira.png">
-                        <div class="item-overlay">
-                            <div class="item-btns">
-
-                                <a href="#" class="btn btn-view"><i class="las la-heart"></i></a>
-                                <a href="yatch-carter/product-detail.html" class="btn btn-view"><i class="lni lni-eye"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item-detail">
-                        <h4 class="item-name">Amandira</h4>
-                        <ul class="reviews">
-                            <li><i class="las la-star"></i></li>
-                            <li><i class="las la-star"></i></li>
-                            <li><i class="las la-star"></i></li>
-                            <li><i class="las la-star"></i></li>
-                            <li><i class="las la-star"></i></li>
-                        </ul>
-                        <p class="item-price">52M  |  3 - 5 CABINS  |  6 - 10 GUESTS  |  14 CREW</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
-                <div class="featured-item-card">
-                    <div class="item-img">
                         <img src="yatch-carter/img/silolona.jpg">
                         <div class="item-overlay">
                             <div class="item-btns">
@@ -659,6 +634,33 @@
                     </div>
                 </div>
             </div>
+            <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
+                <div class="featured-item-card">
+                    <div class="item-img">
+                        <img src="yatch-carter/img/amandira.png">
+                        <div class="item-overlay">
+                            <div class="item-btns">
+
+                                <a href="#" class="btn btn-view"><i class="las la-heart"></i></a>
+                                <a href="yatch-carter/product-detail.html" class="btn btn-view"><i class="lni lni-eye"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="item-detail">
+                        <h4 class="item-name">Amandira</h4>
+                        <ul class="reviews">
+                            <li><i class="las la-star"></i></li>
+                            <li><i class="las la-star"></i></li>
+                            <li><i class="las la-star"></i></li>
+                            <li><i class="las la-star"></i></li>
+                            <li><i class="las la-star"></i></li>
+                        </ul>
+                        <p class="item-price">52M  |  3 - 5 CABINS  |  6 - 10 GUESTS  |  14 CREW</p>
+                    </div>
+                </div>
+            </div>
+            
             <div class="col-12 col-md-6 col-lg-4 text-center wow slideInUp">
                 <div class="featured-item-card">
                     <div class="item-img">
@@ -979,7 +981,7 @@
 
 <!-- JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.0.4/popper.js"></script>
-<script src="vendor/js/bundle.min.js"></script>
+<script src="{{ asset('vendor/js/bundle.min.js')}}"></script>
 
 <!-- Plugin Js -->
 <script src="{{ asset('vendor/js/jquery.appear.js')}}"></script>
