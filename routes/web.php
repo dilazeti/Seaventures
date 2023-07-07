@@ -14,5 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index-yatch-carter');
+    return view('login');
 });
+
+/*Buatkan route untuk ke halaman login dan halaman lainnya */
