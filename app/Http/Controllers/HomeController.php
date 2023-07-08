@@ -1,10 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\AuthController;
-use Illuminate\Support\Facades\Auth;
-use App\Http\Controllers;
+
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
