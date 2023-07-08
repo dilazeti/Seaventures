@@ -368,7 +368,7 @@
                          data-paddingbottom="[0,0,0,0]"
                          data-paddingleft="[0,0,0,0]"
 
-                         style="z-index: 8; font-family:Poppins,sans-serif;"><a class="btn web-btn scroll rounded-pill" href="#featured-items">Shop Now</a></div>
+                         style="z-index: 8; font-family:Poppins,sans-serif;"><a class="btn web-btn scroll rounded-pill" href="#featured-items">Explore</a></div>
                 </li>
                 <!-- SLIDE  -->
                 <li data-index="rs-46" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="assets/100x50_3d469-bg-light-1.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
