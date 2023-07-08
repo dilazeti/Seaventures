@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HomeController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -13,8 +15,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     return view('login');
-});
+}); */
 
 /*Buatkan route untuk ke halaman login dan halaman lainnya */
+
+Route::get('/', [\App\Http\Controllers\HomeController::class, 'index'])->name('homepage');;
+Route::get('/login', [HomeController::class, 'login'])->name('login');

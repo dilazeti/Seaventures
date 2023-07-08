@@ -10,15 +10,15 @@
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{ asset('login/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{ asset('login-asset/css/bootstrap.min.css')}}">
     <!-- Fontawesome CSS -->
-    <link rel="stylesheet" href="{{ asset('login/css/fontawesome-all.min.css')}}">
+    <link rel="stylesheet" href="{{ asset('login-asset/css/fontawesome-all.min.css')}}">
     <!-- Flaticon CSS -->
-    <link rel="stylesheet" href="{{ asset('login/font/flaticon.css')}}">
+    <link rel="stylesheet" href="{{ asset('login-asset/font/flaticon.css')}}">
     <!-- Google Web Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ asset('login/less/style.css')}}">
+    <link rel="stylesheet" href="{{ asset('login-asset/less/style.css')}}">
 </head>
 
 <body>
@@ -104,17 +104,17 @@
         </div>
     </section>
     <!-- jquery-->
-    <script src="login/js/jquery-3.5.0.min.js"></script>
+    <script src="login-asset/js/jquery-3.5.0.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="login/js/bootstrap.min.js"></script>
+    <script src="login-asset/js/bootstrap.min.js"></script>
     <!-- Imagesloaded js -->
-    <script src="login/js/imagesloaded.pkgd.min.js"></script>
+    <script src="login-asset/js/imagesloaded.pkgd.min.js"></script>
     <!-- YouTube js -->
-    <script src="login/js/jquery.mb.YTPlayer.min.js"></script>
+    <script src="login-asset/js/jquery.mb.YTPlayer.min.js"></script>
     <!-- Validator js -->
-    <script src="login/js/validator.min.js"></script>
+    <script src="login-asset/js/validator.min.js"></script>
     <!-- Custom Js -->
-    <script src="login/js/main.js"></script>
+    <script src="login-asset/js/main.js"></script>
 
 </body>
 

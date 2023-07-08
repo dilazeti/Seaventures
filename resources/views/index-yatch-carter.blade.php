@@ -66,7 +66,7 @@
                         <li>
                             <a href="javascript:void(0)" class="open_search"><i class="las la-search"></i></a>
                         </li>
-                        <li><a href="javascript:void(0)"><i class="las la-user-circle" href="login.html"></i></a></li>
+                        <li><a href="{{ route('login') }}"><i class="las la-user-circle" href="javascript:void(0)"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-12 d-flex justify-content-center align-items-center">
@@ -115,7 +115,7 @@
                     <li>
                         <a href="javascript:void(0)" class="open_search"><i class="las la-search"></i></a>
                     </li>
-                    <li><a href="javascript:void(0)"><i class="las la-user-circle" href="login.html"></i></a></li>
+                    <li><a href="{{ route('login') }}"><i class="las la-user-circle" href="javascript:void(0)"></i></a></li>
                 </ul>
             </div>
         </div>
