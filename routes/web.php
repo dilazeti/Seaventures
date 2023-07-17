@@ -21,5 +21,5 @@ use App\Http\Controllers\HomeController;
 
 /*Buatkan route untuk ke halaman login dan halaman lainnya */
 
-Route::get('/', [\App\Http\Controllers\HomeController::class, 'index'])->name('homepage');;
+Route::get('/', [HomeController::class, 'index'])->name('homepage');
 Route::get('/login', [HomeController::class, 'login'])->name('login');

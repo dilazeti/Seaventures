@@ -56,7 +56,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-3">
                     <div class="fxt-header">
-                        <a href="login.html" class="fxt-logo"><img src="yatch-carter/img/logo.png" alt="Logo"></a>
+                        <a href="{{ url('/') }}" class="fxt-logo"><img src="yatch-carter/img/logo.png" alt="Logo"></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
