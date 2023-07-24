@@ -66,7 +66,7 @@
                         <li>
                             <a href="javascript:void(0)" class="open_search"><i class="las la-search"></i></a>
                         </li>
-                        <li><a href="{{ route('login') }}"><i class="las la-user-circle" href="javascript:void(0)"></i></a></li>
+                        <li><a href="{{ url('/login') }}"><i class="las la-user-circle" href="javascript:void(0)"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-12 d-flex justify-content-center align-items-center">
@@ -90,7 +90,7 @@
                 <div class="collapse navbar-collapse" id="megaone">
                     <ul class="navbar-nav ml-auto mr-auto">
                         <li><a class="nav-link active scroll" href="#header">Home</a></li>
-                        <li><a class="nav-link" href="yatch-carter/about-us.html">About Us</a></li>
+                        <li><a class="nav-link" href="#aboutus">About Us</a></li>
                        <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Pages <i class="fas fa-angle-down"></i>
@@ -102,9 +102,9 @@
                                 <a class="dropdown-item" href="#"><i class="las la-angle-double-right"></i> Standalone</a>
                             </div>
                         </li>-->
-                        <li><a class="nav-link" href="yatch-carter/product-listing.html">Collections</a></li>
-                        <li><a class="nav-link" href="yatch-carter/standard-blog.html">News</a></li>
-                        <li><a class="nav-link" href="yatch-carter/contact-us.html">Contact</a></li>
+                        <li><a class="nav-link" href="#">Collections</a></li>
+                        <li><a class="nav-link" href="#">News</a></li>
+                        <li><a class="nav-link" href="#">Contact</a></li>
                     </ul>
                 </div>
             </div>
@@ -115,7 +115,7 @@
                     <li>
                         <a href="javascript:void(0)" class="open_search"><i class="las la-search"></i></a>
                     </li>
-                    <li><a href="{{ route('login') }}"><i class="las la-user-circle" href="javascript:void(0)"></i></a></li>
+                    <li><a href="{{ url('/login') }}"><i class="las la-user-circle" href="javascript:void(0)"></i></a></li>
                 </ul>
             </div>
         </div>
@@ -142,7 +142,7 @@
                     <a class="nav-link scroll" href="#header">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="yatch-carter/about-us.html">About Us</a>
+                    <a class="nav-link" href="#aboutus">About Us</a>
                 </li>
                 <!--<li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -740,7 +740,7 @@
     <div class="overlay-white"></div><-->
 <section class="about-sec padding-bottom" id="about-sec">
     <div class="container">
-        <div class="row">
+        <div class="row" id="aboutus">
             <div class="col-12 text-center">
                 <div class="heading-details">
                     <h4 class="heading">About Us</h4>
